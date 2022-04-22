@@ -1,6 +1,6 @@
 # Legal-Document-Summarization
 
-This corpus is for the paper "Summarizing Legal Regulatory Documents using Transformers" (https://doi.org/10.1145/3477495.3531872) accepted for SIGIR 2022, Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR ’22), July 11–15, 2022, Madrid, Spain. ACM, New York, NY, USA.
+This corpus is for the paper "Summarizing Legal Regulatory Documents using Transformers" (https://doi.org/10.1145/3477495.3531872, doi will be active soon) accepted for SIGIR 2022, Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR ’22), July 11–15, 2022, Madrid, Spain. ACM, New York, NY, USA.
 
 This is a corpus named EUR-LexSum containing 4595 curated European regulatory documents and their corresponding summaries passed by the
 European Union between July 2003 and February 2022. To this date, the vast majority of summarization research has been conducted on a limited amount of datasets, like the CNN/Daily Mail, NYT, DUC, or Gigaword. To address the growing need to summarize texts in domains other than news, we introduce a novel version of the EUR-Lex. To our knowledge, the data has not been
